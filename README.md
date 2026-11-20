@@ -35,17 +35,17 @@ relações entre as várias partes do negócio.
 
 | Pasta | Descrição |
 |---|---|
-| [`relatorio/`](./relatorio) | Relatório completo com enquadramento, análise e conclusões |
-| [`modelos-oml/`](./modelos-oml) | Modelos em OML (`.oml`) |
-| [`processos-bpmn/`](./processos-bpmn) | Processos em BPMN 2.0 (`.bpmn`) |
-| [`diagramas/`](./diagramas) | Exportações visuais dos modelos (`.png`) |
+| [`relatorio/`](./report) | Relatório completo com enquadramento, análise e conclusões |
+| [`modelos-oml/`](./models-oml) | Modelos em OML (`.oml`) |
+| [`processos-bpmn/`](./processs-bpmn) | Processos em BPMN 2.0 (`.bpmn`) |
+| [`diagramas/`](./diagrams) | Exportações visuais dos modelos (`.png`) |
 
 ---
 
 ## 🖼️ Exemplo de diagrama
 
 <!-- Substitui pelo nome real de um dos teus PNG -->
-![Diagrama principal](./diagramas/nome-do-diagrama.png)
+![Diagrama principal](./diagrams/ProcessoNegocioBPMN.png)
 
 *[Legenda curta: o que este processo representa]*
 
